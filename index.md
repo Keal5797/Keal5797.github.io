@@ -6,3 +6,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Hans
 * Peter
 * Max
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
